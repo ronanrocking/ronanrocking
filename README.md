@@ -1,4 +1,4 @@
-# Ronan Madan
+# ✨ Ronan Madan
 
 Third-year Computer & Communication Engineering student, MIT Manipal.
 
@@ -8,6 +8,7 @@ Currently:
 - Maintaining FreeFeed, a Chrome extension for reducing distracting Instagram features
 
 Tech I work with:
+
 Python/FastAPI · Java · HTML/CSS/JS · SQL ·  PostgreSQL · Docker · Codex (lol)
 
 [Portfolio](https://ronanrocking.com/) · [LinkedIn](https://www.linkedin.com/in/ronan-madan-112667290/)
